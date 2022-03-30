@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+}
+h2,
+h3 {
+  color: beige;
+}
+.col-md-6 {
+  border: 8px solid lightgoldenrodyellow;
+  border-radius: 15px;
+  margin: 30vh 30vw !important;
+  padding: 40px 50px;
+}
+
+button {
+  border: 1px solid white !important;
+  background-color: rgb(9, 61, 95) !important;
+  border-radius: 8px;
+  margin: 20px !important;
+  box-shadow: 10px black !important;
+}
